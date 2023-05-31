@@ -1,9 +1,12 @@
 {
   "name": "test-bumpp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "main.js",
   "author": "yuler <is.yuler@gmail.com> (https://yuler.dev)",
   "license": "MIT",
+  "scripts": {
+    "release": "bumpp"
+  },
   "devDependencies": {
     "bumpp": "^9.1.0"
   }
