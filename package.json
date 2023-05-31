@@ -1,0 +1,10 @@
+{
+  "name": "test-bumpp",
+  "version": "0.0.0",
+  "main": "main.js",
+  "author": "yuler <is.yuler@gmail.com> (https://yuler.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "bumpp": "^9.1.0"
+  }
+}
