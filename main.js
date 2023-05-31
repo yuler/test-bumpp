@@ -1,3 +1,3 @@
 export function main() {
-    console.log('xxx')
+    console.log('xxx1')
 }
